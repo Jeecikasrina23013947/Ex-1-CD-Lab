@@ -1,4 +1,5 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+date:17.08.2024
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
@@ -65,7 +66,10 @@ int main() {
 ```
 # OUTPUT
 
-![output cn](https://github.com/user-attachments/assets/6175b2d8-663f-4ed6-8e6f-2191043aa6f9)
+![12o](https://github.com/user-attachments/assets/f85ec03d-62f0-4a4e-a2a0-97a827a3ddf6)
+![b](https://github.com/user-attachments/assets/dfad54af-7db2-4de0-b22f-d78dd12133bd)
+
+
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
